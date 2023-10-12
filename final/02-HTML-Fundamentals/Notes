@@ -1,3 +1,4 @@
 HTML --> Hyper Text Markup Language
 It is not a coding language 
 Markup Language --> Because it is used to describe the content using tags
+<!DOCTYPE html> --> When server runs ,browser will get all the functionalities of html to render this page
